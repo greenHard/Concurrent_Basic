@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent_basic.iml" filepath="$PROJECT_DIR$/concurrent_basic.iml" />
     </modules>
   </component>
 </project>

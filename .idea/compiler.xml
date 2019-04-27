@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Concurrency" />
+        <module name="concurrent_basic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Concurrency" target="1.8" />
+      <module name="concurrent_basic" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
